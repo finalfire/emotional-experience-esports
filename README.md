@@ -1,6 +1,6 @@
 # Investigating the Emotional Experiences in eSports Spectatorship: the Case of League of Legends
 
-This GitHub repository contains the data and source code related to the paper _"Investigating the Emotional Experiences in eSports Spectatorship: the Case of League of Legends"_ by Francesco Cauteruccio and Yubo Kou (Information Processing & Management, 60(3), 2023).
+This GitHub repository contains the data and source code related to the paper [_"Investigating the Emotional Experiences in eSports Spectatorship: the Case of League of Legends"_](https://www.sciencedirect.com/science/article/pii/S0306457323002534) by Francesco Cauteruccio and Yubo Kou (Information Processing & Management, 60(3), 2023).
 
 For any further information, feel free to reach out to us via email (Francesco Cauteruccio, [f.cauteruccio@staff.univpm.it](mailto:f.cauteruccio@staff.unvipm.it)).
 
